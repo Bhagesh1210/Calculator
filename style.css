@@ -6,7 +6,7 @@ body {
     margin: 0;
     padding: 0;
     /* background: linear-gradient(to right, #e90606 50%, #3607f1 50%); */
-    background: linear-gradient(to right, #ff0000, #ff0000 25%, #0000ff 75%, #0000ff);
+    background: linear-gradient(to right, #e8dfdf, #ded5d5 25%, #0d5c8d 75%, #006aff);
   } 
   /* mystyle.css */
 
@@ -37,7 +37,7 @@ body {
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    background: linear-gradient(to right, #ff0000, #ff0000 25%, #0000ff 75%, #0000ff);
+    background: linear-gradient(to right, #e3d8d8, #c4bebe 25%, #1d5b8b 75%, #0d5076);
   } 
   
   
